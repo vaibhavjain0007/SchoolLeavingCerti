@@ -1,3 +1,5 @@
+package org.example.tests;
+
 import org.example.pages.SchoolLeavingCerti;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
